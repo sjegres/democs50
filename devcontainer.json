@@ -1,5 +1,4 @@
 {
-  "build": { "dockerfile": "Dockerfile" }
   "image": "docker.io/python:latest",
   "extensions": ["ms-python.python"],
   "features": { "ghcr.io/devcontainers/features/github-cli:1": {} },
